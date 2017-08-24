@@ -23,4 +23,4 @@ Fitur-fitur yang ada diaplikasi ini adalah :
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
-Wisnu Febriadi - Teknik Informatika - Universitas Maritim Raja Ali Haji
+**Wisnu Febriadi - Teknik Informatika - Universitas Maritim Raja Ali Haji**

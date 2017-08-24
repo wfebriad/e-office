@@ -1,8 +1,8 @@
-**Jika membutuhkan databasenya bisa menghubungi email w.febriadi00@gmail.com atau WhatsApp +62819 9133 0226
+**Jika membutuhkan databasenya bisa menghubungi email w.febriadi00@gmail.com atau WhatsApp +62819 9133 0226**
 
 <h2>E-Office Distrik Navigasi Kelas I Tanjungpinang</h2>
 
-Aplikasi ini dibuat dengan bahasa pemrograman <a href="http://php.net/" target="_blank">PHP</a> dan database <a href="https://en.wikipedia.org/wiki/MySQLi" target="_blank">MySQLi</a> dengan style <a href="https://en.wikipedia.org/wiki/Procedural_programming" target="_blank">prosedural</a>. Sedangkan cssnya menggunakan <a href="http://materializecss.com/" target="_blank">Materializecss</a> dan <a href="https://www.google.com/design/icons/" target="_blank">Google Material Icons</a>.
+Aplikasi ini dibuat dengan bahasa pemrograman <a href="http://php.net/" target="_blank">PHP</a> dan database <a href="https://en.wikipedia.org/wiki/MySQLi" target="_blank">MySQLi</a> dengan style <a href="https://en.wikipedia.org/wiki/Procedural_programming" target="_blank">prosedural</a>. Sedangkan cssnya menggunakan <a href="http://materializecss.com/" target="_blank">Materialize CSS</a> dan <a href="https://www.google.com/design/icons/" target="_blank">Google Material Icons</a>.
 
 Untuk menggunakan aplikasi ini silakan lakukan beberapa konfigurasi terlebih dahulu.
 

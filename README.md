@@ -1,4 +1,4 @@
-**Jika membutuhkan databasenya bisa menghubungi email w.febriadi00@gmail.com atau WhatsApp +62819 9133 0226**
+
 
 <h2>E-Office Distrik Navigasi Kelas I Tanjungpinang</h2>
 

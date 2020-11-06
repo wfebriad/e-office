@@ -1,5 +1,3 @@
-
-
 <h2>E-Office Distrik Navigasi Kelas I Tanjungpinang</h2>
 
 Aplikasi ini dibuat dengan bahasa pemrograman <a href="http://php.net/" target="_blank">PHP</a> dan database <a href="https://en.wikipedia.org/wiki/MySQLi" target="_blank">MySQLi</a> dengan style <a href="https://en.wikipedia.org/wiki/Procedural_programming" target="_blank">prosedural</a>. Sedangkan cssnya menggunakan <a href="http://materializecss.com/" target="_blank">Materialize CSS</a> dan <a href="https://www.google.com/design/icons/" target="_blank">Google Material Icons</a>.
@@ -22,5 +20,3 @@ Fitur-fitur yang ada diaplikasi ini adalah :
 - Fitur backup dan restore database
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
-
-**Wisnu Febriadi - Teknik Informatika - Universitas Maritim Raja Ali Haji**
